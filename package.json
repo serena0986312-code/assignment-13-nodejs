@@ -1,0 +1,9 @@
+{
+  "name": "assignment-13-nodejs",
+  "version": "1.0.0",
+  "description": "Fresh repository for assignment 13",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
